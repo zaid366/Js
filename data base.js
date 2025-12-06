@@ -1,10 +1,10 @@
-let  isLoggedIn = "23"
-let blooLeanIsLoogedIn = Boolean  (isLoggedIn)
-console.log(blooLeanIsLoogedIn);
-console.log(typeof(isLoggedIn));
+// number to string
 
+let num = 33
+let toStr = String(num)
+console.log(toStr);
+console.log(typeof(toStr));
 
-
-// 1 => ture ; 0 => fals ;
-// " " => Fals ; 
-// " zaid " => True ;
+//  yes num can conver to string 
+// and number type also 
+// but it look still a number like 33 
