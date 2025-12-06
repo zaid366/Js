@@ -1,24 +1,21 @@
-"use strict";// trat all code as new verion
- console.log(3
-    +
-    4)// not good practice 
-  console.log("zaid")
+let age =   23
+console.log(typeof(age));
 
- let name = "zaid"
- let age = 12
- let isLoggedIn =false
+// number wits strin ?
+let strNum =   "33abc"
+console.log(typeof(strNum));
 
- // number => 2 to the power 53
- // bigint ise for big number
- // string =>"zaid"
- //boolean =>   true/ false
- // null stand alone value / empty
- //undefind => when vale undefind
- //symbol to find uniqeness 
+// strinng convert to number
 
- // object 
- 
- console.log(typeof undefined);//is undifind
- console.log(typeof null);//   is object
- 
- 
+let valuInNumer = Number (strNum)
+console.log(typeof(valuInNumer));
+
+// check if it's actuly a number 
+
+console.log(valuInNumer);
+
+// what if it's null ?
+let check = null
+console.log(typeof(check));
+console.log(check);
+
