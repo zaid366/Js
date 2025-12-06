@@ -1,9 +1,9 @@
 let  isLoggedIn = "12 "
 let num =  23
-// console.log(num);
+console.log(num);
 
-// let blooLeanIsLoogedIn = Boolean  (isLoggedIn)
-// console.log(blooLeanIsLoogedIn);
+let blooLeanIsLoogedIn = Boolean  (isLoggedIn)
+console.log(blooLeanIsLoogedIn);
 
 
 // 1 => ture ; 0 => fals ;
@@ -18,7 +18,7 @@ console.log(negVlue);
 
 // oppraater's
 console.log(2+2);// addition
-console.log(2-2);// subtraction
+console.log(2-2);// sub
 console.log(2*2);// Multiplication
 console.log(2**2);// Power
 console.log(2/2);// division
