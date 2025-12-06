@@ -24,3 +24,4 @@ console.log(2**2);// Power
 console.log(2/2);// division
 console.log(2%2);// remainder  
 
+
